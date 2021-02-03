@@ -22,9 +22,9 @@
       c.	Make sure to add your expenses for each category into the formula for the cell. 
 
       d.	The “Pool Operator Stipend” expense is a variable expense based on this formula: 
-      =((PoolFixedFeeIncome+PoolVariableFeeIncome)/(PoolActiveStake*5dayMovingAvg$ADAprice))*(PoolActiveStake*5dayMovingAvg$ADAprice)/2.8
+      =((PoolFixedFeeIncome+PoolVariableFeeIncome)/(PoolActiveStake*5dayMovingAvg$ADAprice))*(PoolActiveStake*5dayMovingAvg$ADAprice)/2.1
 
-      i.	The “2.8” factor of division at the end of the formula can be changed to provide whatever amount of income the SPO feels is fair for their efforts in maintaining the         pool. This is considered your stipend and will be proportional to pool active stake & price of ADA.
+      i.	The “2.1” factor of division at the end of the formula can be changed to provide whatever amount of income the SPO feels is fair for their efforts in maintaining the         pool. This is considered your stipend and will be proportional to pool active stake & price of ADA.
 
       e.	The “Marketing Variable” income follows the same formula with a smaller factor of division. Again, this can be modified to fit your budget.
  
